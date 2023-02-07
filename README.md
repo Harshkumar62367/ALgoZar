@@ -9,3 +9,5 @@ Now, it's time to unleash the boundless potential of NFTs and experience the nex
 <br>
 
 ## Synopsis
+
+
