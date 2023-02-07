@@ -5,4 +5,4 @@ As said by <strong> Silvio Micali </strong>, "Algorand removed the technical bar
 
 <br>
 
-Now, it's the time to unleash the potential of Algorand Blockchain in the world of NFTs
+<p align ="center"> Now, it's the time to unleash the potential of Algorand Blockchain in the world of NFTs </p>
