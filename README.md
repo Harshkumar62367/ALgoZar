@@ -5,4 +5,6 @@ As said by <strong> Silvio Micali </strong>, "Algorand removed the technical bar
 
 <br>
 
-Now, it's time to unleash the boundless potential of NFTs and experience the next frontier in digital transformation with the Algorand Blockchain. So we <b>AlgoNFT</b> team has prepared this extensive NFT marketing strategy to build the NFT space on Algorand
+Now, it's time to unleash the boundless potential of NFTs and experience the next frontier in digital transformation with the Algorand Blockchain. So we <b>AlgoNFT</b> team has prepared this extensive NFT marketing strategy to build the NFT space on Algorand.
+
+## Synopsis
