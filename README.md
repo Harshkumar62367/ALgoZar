@@ -1,1 +1,1 @@
-# Algorand---NFT-Marketing-Strategy
+<h1 align="center">AlgoNFT</a></h1><hr>
