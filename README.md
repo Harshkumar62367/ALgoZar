@@ -11,7 +11,8 @@ Now, it's time to unleash the boundless potential of NFTs and experience the nex
 <img src="https://github.com/Harshkumar62367/Algorand---NFT-Marketing-Strategy/blob/main/img/algo-nft.gif"  style="width:900px; 
             height:400px; 
             display: block;
-            align: center" />
+            align: center; 
+            border-radius: 5px" />
 </p><hr>
 
 
