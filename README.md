@@ -24,7 +24,12 @@ AlgoZar uses **AARRR** metrics framework for leading the growth along with makin
 <br>
 So, what's this AARRR metrics we are talking about. Let's simplified it a bit:- 
 
-- **A - Acquisition**(or awareness): Acquisition refers to all of the channels ywe use to introduce people to your product. It gives us the metrics of how people are discovering our product.
+- **A - Acquisition**(or awareness):  Acquisition refers to all of the channels we use to introduce people to our product. It gives us the metrics of how people are discovering our product or in this case our Algo NFTs.
+- **A - Activation**:  Activation refers to users taking the desired actions that we want them to, or in this case are they checking our Algorand NFT marketplaces, connecting their wallet or even buying a NFT.
+- **R - Retention**:  Retention refers to the "active new users" that we have persuaded to take action, are they coming back to our Marketplace platform again and still show interest in our NFTs.
+- **R - Referral**:  Referral refers to the active users, are they recommending our Algorand NFTs to more of their freinds or family members.
+- **R - Revenue**: Revenue is an essential metric as it will let us know what projects are generating revenue and what strategy is not working for Algorand NFTs.
+
 
 
 
