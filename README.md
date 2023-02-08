@@ -71,6 +71,10 @@ Acquisition or awareness efers to all of the channels we will use to introduce p
             
 <b>Activity 2: Social Media Activity</b>
 
+- Conducting frequent AMAs for Algorand NFT projects that help the proejct to get some new user base.
+- Meme competitions also helps many NFT projects to create enegagemnt in Social Media.
+- Frequent eduactional content about ASA standards that help the community learn about Algorand NFTS.
+- Putting out campaigns on C2E platform for like/retweet a spacific tweet.
 
 Activation
 
