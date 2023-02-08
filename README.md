@@ -7,8 +7,8 @@ As said by <strong> Silvio Micali </strong>, "Algorand removed the technical bar
 Now, it's time to unleash the boundless potential of NFTs and experience the next frontier in digital transformation with the Algorand Blockchain. So we <b>AlgoNFT</b> team has prepared this extensive NFT marketing strategy to build the NFT space on Algorand.
 
 <br>
-<img src="https://github.com/Harshkumar62367/Algorand---NFT-Marketing-Strategy/blob/main/img/algo-nft.png"  style="width:900px; 
-            height:200px; 
+<img src="https://github.com/Harshkumar62367/Algorand---NFT-Marketing-Strategy/blob/main/img/algorand-nft.png"  style="width:900px; 
+            height:300px; 
             display: block;" />
 </p><hr>
 
