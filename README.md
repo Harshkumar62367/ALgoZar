@@ -44,6 +44,7 @@ Also if we compare recent data, the total volume of ALGO traded for NFTs is down
 - Increasing the percentage of wallets in Algorand ecosystem.
 - Increasing the number of NFT projects launched in Algorand ecosystem.
 - Increase the social media awareness of ASAs and total NFTs in Algorand.
+- Creating the hype around Algorand NFTs and onboard more web3 folks to Algorand.
               
 
 <br>
