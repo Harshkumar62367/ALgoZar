@@ -67,7 +67,9 @@ Acquisition or awareness efers to all of the channels we will use to introduce p
 - C2E platforms have helped many defi and nft projects to acquire thousands of new users for polygon, sui and other blockchains projects.
 - Some major C2E platform in the web3 industry that can be used by Algorand for promoting their NFTs are PymeId, Quest3, Crew3, Dappback.
 - Crew3 alone has more than 1000+ projects of different ecosystem listed on its platform, and helps the projects in their community growth and creating social media presence.
+- We should also give out some free NFTs as in replace of doing tasks on C2E platforms, that only will increase our wallet base, but will help in community growth of Algo NFTs.
             
+<b>Activity 2: Social Media Activity</b>
 
 
 Activation
