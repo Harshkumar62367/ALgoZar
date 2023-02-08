@@ -31,9 +31,10 @@ So, what's this AARRR metrics we are talking about. Let's simplified it a bit:-
 - **R - Revenue**: Revenue is an essential metric as it will let us know what projects are generating revenue and what strategy is not working for Algorand NFTs.
 
 <hr><br>
+
 ## Challenge
 
-
+Currentl
 
 
 
