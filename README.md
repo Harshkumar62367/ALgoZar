@@ -64,4 +64,11 @@ Revenue
 <p> yugank 
 </p>
 
+###Nikhil
+
+Algorand is a fast,secure and cheap blockchain to mint,sell and trade NFTs. Its PPoS Consensus protocol has a major part in making it fast and reliable. With the growing trend and market of NFTs , the opportunities for increasing the NFT marketshare has also increased . This brings out enormous opportunities for Algorand too to expand its market cover in NFTs. Some of them can be:
+Expanding in Technical Institutions: It could be a area of enormous possibilites to increase the demand of NFTs. NFTs can be embedded in the ID Cards of students ,and  their degrees can too be provided in the form of NFTs. Apart from these full time NFTs , these can also be used in the form passes for events that are organised in the Institutions. Furthermore, Hall Tickets and gradecards can also be embedded in the form of NFTs.
+Utility Bills in the form of NFTs: Losing our bills can be very problematic in times when we need them for some important job. But ,what if it can never be lost , you can get it anywhere and anytime with its authenticity maintained. Yes! you thought right, Bills in the form of NFTs can be quite handy . It would have no problem of losing as well their authenticity can be proved and maintained.
+Subscriptions in the form of NFTs: Service Subscriptions are an avoidable part of our lives today. Sometimes it is hard to track down the money spent on these but what if we have a NFT in our wallet to signify our purchase with all the necessary details on it, wouldn't it be super easy to track and manage. And what if we could add a possibility to sell the subscription to some other individuals too, in case somebody doesn't want to keep . NFTs would be quite manageable,trackable and authentic in this scenario.
+
 
