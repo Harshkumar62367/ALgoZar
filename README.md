@@ -12,7 +12,7 @@ Now, it's time to unleash the boundless potential of NFTs and experience the nex
             height:400px; 
             display: block;
             align: center;" />
-</p><hr>
+</p>
 
 
 ## Synopsis
