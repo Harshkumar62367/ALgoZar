@@ -21,7 +21,10 @@ Digital assets or as we are talking in this case NFTs, have become all the rage 
 
 AlgoZar is a marketing strategy put down for preparing the hype around the Algorand Blockchain, along with increasing traffic towards Algorand marketplaces, attracting more digital artists and increasing the social media awareness and presence of Algorand NFTs.   
 AlgoZar uses **AARRR** metrics framework for leading the growth along with making it simpler for product management and efiiciently managing the marketing efforts along with improving the initiatives that are not working.
+<br>
+So, what's this AARRR metrics we are talking about. Let's simplified it a bit:- 
 
+- **A - Acquisition**(or awareness): Acquisition refers to all of the channels ywe use to introduce people to your product. It gives us the metrics of how people are discovering our product.
 
 
 
