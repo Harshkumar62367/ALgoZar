@@ -40,7 +40,10 @@ Also if we compare recent data, the total volume of ALGO traded for NFTs is down
 ### Goals and Objectives
 
 - Increase the traffic towards Algorand NFT Marketplaces.
-- 
+- Attracting more digital NFT artists to Algorand ecosystem.
+- Increasing the percentage of wallets in Algorand ecosystem.
+- Increasing the number of NFT projects launched in Algorand ecosystem.
+- Increase the social media awareness of ASAs and total NFTs in Algorand.
               
 
 <br>
