@@ -12,7 +12,7 @@ Now, it's time to unleash the boundless potential of NFTs and experience the nex
             height:400px; 
             display: block;
             align: center;" />
-</p>
+</p><hr>
 
 
 ## Synopsis
@@ -30,7 +30,7 @@ So, what's this AARRR metrics we are talking about. Let's simplified it a bit:-
 - **R - Referral**:  Referral refers to the active users, are they recommending our Algorand NFTs to more of their freinds or family members.
 - **R - Revenue**: Revenue is an essential metric as it will let us know what projects are generating revenue and what strategy is not working for Algorand NFTs.
 
-<hr><br>
+<hr>
 
 ## Algorand NFT Market Analysis
 
