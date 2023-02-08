@@ -60,7 +60,7 @@ Referral
 
 Revenue
 
-###Yugank
+# Yugank
 <p> Why Algorand?
 The cost of minting, buying, selling, and trading NFT’s on the Algorand blockchain is cheap. The transaction speed of Algorand is also fast, it can process up to 1,000 transactions per second and takes 4 seconds to achieve finality
 
