@@ -39,7 +39,8 @@ Also if we compare recent data, the total volume of ALGO traded for NFTs is down
 
 ### Goals and Objectives
 
-
+- Increase the traffic towards Algorand NFT Marketplaces.
+- 
               
 
 <br>
