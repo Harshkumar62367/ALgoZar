@@ -17,6 +17,7 @@ Now, it's time to unleash the boundless potential of NFTs and experience the nex
 
 ## Synopsis
 
+Digital assets or for this have become all the rage over the past few years. As our world has become more dominated by technology, we’ve increasingly sought to turn the tangible into the digital.
 
 
 
