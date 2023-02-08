@@ -68,13 +68,21 @@ Acquisition or awareness efers to all of the channels we will use to introduce p
 - Some major C2E platform in the web3 industry that can be used by Algorand for promoting their NFTs are PymeId, Quest3, Crew3, Dappback.
 - Crew3 alone has more than 1000+ projects of different ecosystem listed on its platform, and helps the projects in their community growth and creating social media presence.
 - We should also give out some free NFTs as in replace of doing tasks on C2E platforms, that only will increase our wallet base, but will help in community growth of Algo NFTs.
+- The NFTs rewarded can only be seen at the marketplaces, which will increase the traffic towards ALgorand NFT marketplaces.
             
 <b>Activity 2: Social Media Activity</b>
 
 - Conducting frequent AMAs for Algorand NFT projects that help the proejct to get some new user base.
 - Meme competitions also helps many NFT projects to create enegagemnt in Social Media.
 - Frequent eduactional content about ASA standards that help the community learn about Algorand NFTS.
-- Putting out campaigns on C2E platform for like/retweet a spacific tweet.
+- Putting out campaigns on C2E platform for like/retweet a spacific tweet and build some social media presence.
+- Twitter, Discord and Telegram are the most major social media platforms that will be used for this activity.
+
+<b>Activity 3: NFT hackathons & bootcamps</b>
+
+- Conducting NFT related hackatons to increase digital artists base in ALgorand.
+- Using popular hackathons platform to increase the base for hackathon.
+- Conducting 
 
 Activation
 
