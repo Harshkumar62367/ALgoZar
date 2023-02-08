@@ -60,8 +60,26 @@ Referral
 
 Revenue
 
+###Yugank
+<p> Why Algorand?
+The cost of minting, buying, selling, and trading NFT’s on the Algorand blockchain is cheap. The transaction speed of Algorand is also fast, it can process up to 1,000 transactions per second and takes 4 seconds to achieve finality
 
-<p> yugank 
+Algorand enables the creation of high-volume NFTs in a practical and feasible manner — especially for smaller, independent artists who may not have access to a lot of capital.
+
+Algorand’s ARC3 functionality
+NFTs minted on Algorand can include an option to be frozen or retrieved by the creator.NFT as ownership of artists.
+Digital Ownership: NFTs can be used as the ownership of digital form which artists will give preference to avoid plagiarism and copyright issues.
+
+Influencer marketing: Very much like using influencer marketing to boost sales of physical products and services, you can use it to create awareness and demand for your NFTs among your target audiences. This tactic leverages the credibility of influencers among their followers.
+
+Giveaways by influencers: Influencers can provide their autographs or selfies in form of NFTs as proof of ownership.
+
+Ticketing and Subscriptions as NFTs
+Tickets and coupons can be provided in the form of NFTs.Tickets can be stored on the blockchain and have access credentials. It’s a smart ticket with superpowers that disrupts the entire event industry with one click.
+
+Warranty cards can also be provided using NFTs. Warranty cards can be invoked after their time period is completed. These Warranty cards can be transferable to another account with the ownership of the warranty card.
+
+Subscriptions of any type like OTT platforms, windows licenses, and any type of validity can be given in NFTs.
 </p>
 
 ###Nikhil
