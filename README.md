@@ -53,8 +53,12 @@ Also if we compare recent data, the total volume of ALGO traded for NFTs is down
 
 ## AlgoZar strategy
 
+Let's get the work started and talk about AlgoZar marketing startegy for building Algorand NFTs hype through AARRR framework. We will also cover the budget that we need for this marketing startegy to work, and will put down steps through which we can check the initiatives that are not working.
 
-Acquisition
+
+### Acquisition
+
+Acquisition or awareness efers to all of the channels we will use to introduce people to Algorand NFTs. It will be the most useful metric as without this no one will know about Algorand NFTs.
 
 Activation
 
