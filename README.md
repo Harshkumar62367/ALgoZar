@@ -37,6 +37,8 @@ So, what's this AARRR metrics we are talking about. Let's simplified it a bit:-
 Even after being one of the fastest blockchain, Algorand still has a low NFT adoption when compared to other chains. According to `https://www.nftexplorer.app/`, there are more than 2 million NFTs minted on Algorand Blockchain till date that had lead to less than half a million individual sales worth around 50 million ALGO. This data when compared to chains of similar size like Binance Smart Chain(BSC) shows that the Algorand blockchain is still lagging in NFT adoption.  
 Also if we compare recent data, the total volume of ALGO traded for NFTs is down by 30% for the last 30 days, which makes it very necessary to put out a creative and innovational NFT marketing strategy to not only capture the NFT market but to onboard new users and contributors to Algorand NFTs community.
 
+<br> 
+
 ### Goals and Objectives
 
 - Increase the traffic towards Algorand NFT Marketplaces.
