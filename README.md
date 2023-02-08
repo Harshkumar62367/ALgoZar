@@ -30,6 +30,9 @@ AlgoZar uses **AARRR** metrics framework for leading the growth along with makin
 
               
 
+<br>
+<br>
+<br>
 
 
 Synopsis - write about state of NFT and how Algorand fits into this picture and what's this post is all about, and what this article will cover and some back links.
