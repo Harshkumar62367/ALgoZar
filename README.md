@@ -77,12 +77,17 @@ Acquisition or awareness efers to all of the channels we will use to introduce p
 - Frequent eduactional content about ASA standards that help the community learn about Algorand NFTS.
 - Putting out campaigns on C2E platform for like/retweet a spacific tweet and build some social media presence.
 - Twitter, Discord and Telegram are the most major social media platforms that will be used for this activity.
+- Social Media activities or post should always be checked for SEOs to make them competitive with other chains or projects posts.
 
 <b>Activity 3: NFT hackathons & bootcamps</b>
 
 - Conducting NFT related hackatons to increase digital artists base in ALgorand.
 - Using popular hackathons platform to increase the base for hackathon.
-- Conducting 
+- Conducting NFT bootcamps in art colleges to increase the digital artist in the Algorand NFT ecosystem.
+- Promoting regional art with these bootcamps and transforming the bridge the convert reginal arts into digital ones.
+- Conducting digital art fair or exhibition, will also help a lot to bring more digital artist aware about Algorand digital assets.
+
+<b>Activity 4: NFT hackathons & bootcamps</b>
 
 Activation
 
