@@ -17,7 +17,7 @@ Now, it's time to unleash the boundless potential of NFTs and experience the nex
 
 ## Synopsis
 
-Digital assets or for this have become all the rage over the past few years. As our world has become more dominated by technology, we’ve increasingly sought to turn the tangible into the digital.
+Digital assets or as we are talking in this case NFTs, have become all the rage over the past few years. And as our world is becoming more dominated by technology, we’ve increasingly sought to turn the tangible into the digital. Today, the NFT market has over a $10 billion market cap and with new potential imapctful projects coming in web3 ecosystem everyday, this number will surely move further up. So to build a NFT space in Algorand and bringing more traffic towards Algorand NFTs and building 'hype' of Algorand NFTs, we have prepared this NFT marketing strategy <b>AlgoZar</b>
 
 
 
