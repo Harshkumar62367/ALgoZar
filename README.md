@@ -58,7 +58,13 @@ Let's get the work started and talk about AlgoZar marketing startegy for buildin
 
 ### Acquisition
 
-Acquisition or awareness efers to all of the channels we will use to introduce people to Algorand NFTs. It will be the most useful metric as without this no one will know about Algorand NFTs.
+Acquisition or awareness efers to all of the channels we will use to introduce people to Algorand NFTs. It will be the most useful metric as without this no one will know about Algorand NFTs. Let's divide the awareness program in different activities to properly manage it.
+
+<b>Activity 1: Contribute to Earn platforms<b>
+
+Contribute-to-earn platfroms is now all over the industry 
+            
+
 
 Activation
 
