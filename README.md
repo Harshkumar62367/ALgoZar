@@ -50,11 +50,9 @@ Also if we compare recent data, the total volume of ALGO traded for NFTs is down
               
 
 <br>
-<br>
-<br>
 
+## AlgoZar strategy
 
-Synopsis - write about state of NFT and how Algorand fits into this picture and what's this post is all about, and what this article will cover and some back links.
 
 Acquisition
 
