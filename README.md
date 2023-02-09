@@ -151,7 +151,20 @@ Retention refers to the "active new users" that we have persuaded to take action
 
 ### Revenue
 
-Finally, we’ll need to identify actual revenue targets for your users. It will help you understand whether or not your costs for acquisition, activation, and other efforts result in profitable growth. The best part of AARRR metric is that we can easily track every metric know what is working and what is not.
+Finally, we’ll need to identify actual revenue targets for your users. It will help you understand whether or not your costs for acquisition, activation, and other efforts result in profitable growth. The best part of AARRR metric is that we can easily track every metric know what is working and what is not. WE can also put out budget and track every metric for Revenue.
+
+
+<hr>
+
+## Budget 
+
+All the activities, that we have listed down costs from a few dollars to slightly more for NFT hackathons. Let's break down budget a bit.
+
+- Contribute-2-Earn platform: Costs around $500 to $2000 for partnership with C2E paltforms.
+- Meme competitions: Costs around $50 - $250.
+- NFT Hackathons: Costs around $5000 - $50000 for every hacathon condudcted (more work internsive).
+- Referral Programs: Cost around $50 - $250 at max.
+- NFT bootcamps: Cost aroun $1000 
 
 
 
