@@ -125,6 +125,10 @@ Retention refers to the "active new users" that we have persuaded to take action
 - Regular updates: Regularly updating your platform to add new features and fix any bugs can help keep your users engaged and coming back for more.
 - Community building: Building a community around your NFT marketplace can help create a sense of belonging and encourage users to come back and participate. Encourage users to engage with each other, share feedback, and offer suggestions to improve the platform.
 
+<b>Activity 3: Social Media Growth</b>
+
+- Daily Activities planning: One needs to keep the audience interactive through daily activities like quiz nights, game nights, and incentives accordingly to keep the audience excited and enthuastic.
+
 Referral
 
 Revenue
