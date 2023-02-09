@@ -108,6 +108,7 @@ Most of the activity that we plan in the acquisition part will have the domino e
 - Ensure our NFT marketplace is user-friendly and easy to navigate. This can help attract more visitors and keep them coming back. A smooth, fast, and intuitive interface can make all the difference in attracting users and keeping them engaged.
 - Ensuring that our NFT maretplaces have inbuilt tools for digital artists to publish NFTs on the platform without the help of code.
 - Partner with other major NFT marketplaces, can help us reach a wider audience and increase the visibility of our marketplace. Consider collaborating with complementary businesses or platforms to cross-promote each other.
+- Platforms used: NFT marketplaces
 
 ### Retention
 
@@ -131,7 +132,13 @@ Retention refers to the "active new users" that we have persuaded to take action
 
 - Daily Activities planning: One needs to keep the audience interactive through daily activities like quiz nights, game nights, and incentives accordingly to keep the audience excited and enthuastic.
 - Trending Events: Events like meme contests can be held to keep the user refreshed and trendy activities should keep taking place.
-- Constant AMAs
+- Constant AMAs on social media to keep social communities engage.
+
+<b>Activity 4: Leverage real use case of Algroand NFTs</b>
+
+- Ticketing and Subscriptions as NFTs: Tickets and coupons can be provided in the form of NFTs. Tickets can be stored on the blockchain and have access credentials. It’s a smart ticket with superpowers that disrupts the entire event industry with one click.
+- Warranty cards can also be provided using NFTs. Warranty cards can be invoked after their time period is completed. These Warranty cards can be transferable to another account with the ownership of the warranty card.
+- Utility Bills in the form of NFTs: Losing our bills can be very problematic in times when we need them for some important job. But ,what if it can never be lost , you can get it anywhere and anytime with its authenticity maintained.
 
 Referral
 
@@ -145,9 +152,7 @@ Algorand’s ARC3 functionality
 NFTs minted on Algorand can include an option to be frozen or retrieved by the creator.NFT as ownership of artists.
 Digital Ownership: NFTs can be used as the ownership of digital form which artists will give preference to avoid plagiarism and copyright issues.
 
-Influencer marketing: Very much like using influencer marketing to boost sales of physical products and services, you can use it to create awareness and demand for your NFTs among your target audiences. This tactic leverages the credibility of influencers among their followers.
 
-Giveaways by influencers: Influencers can provide their autographs or selfies in form of NFTs as proof of ownership.
 
 Ticketing and Subscriptions as NFTs
 Tickets and coupons can be provided in the form of NFTs.Tickets can be stored on the blockchain and have access credentials. It’s a smart ticket with superpowers that disrupts the entire event industry with one click.
@@ -161,7 +166,7 @@ Subscriptions of any type like OTT platforms, windows licenses, and any type of 
 
 Algorand is a fast,secure and cheap blockchain to mint,sell and trade NFTs. Its PPoS Consensus protocol has a major part in making it fast and reliable. With the growing trend and market of NFTs , the opportunities for increasing the NFT marketshare has also increased . This brings out enormous opportunities for Algorand too to expand its market cover in NFTs. Some of them can be:
 Expanding in Technical Institutions: It could be a area of enormous possibilites to increase the demand of NFTs. NFTs can be embedded in the ID Cards of students ,and  their degrees can too be provided in the form of NFTs. Apart from these full time NFTs , these can also be used in the form passes for events that are organised in the Institutions. Furthermore, Hall Tickets and gradecards can also be embedded in the form of NFTs.
-Utility Bills in the form of NFTs: Losing our bills can be very problematic in times when we need them for some important job. But ,what if it can never be lost , you can get it anywhere and anytime with its authenticity maintained. Yes! you thought right, Bills in the form of NFTs can be quite handy . It would have no problem of losing as well their authenticity can be proved and maintained.
+
 Subscriptions in the form of NFTs: Service Subscriptions are an avoidable part of our lives today. Sometimes it is hard to track down the money spent on these but what if we have a NFT in our wallet to signify our purchase with all the necessary details on it, wouldn't it be super easy to track and manage. And what if we could add a possibility to sell the subscription to some other individuals too, in case somebody doesn't want to keep . NFTs would be quite manageable,trackable and authentic in this scenario.
 
 
