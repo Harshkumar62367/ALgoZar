@@ -116,6 +116,7 @@ Retention refers to the "active new users" that we have persuaded to take action
 
 - For retention of artists, we can arrange constant bootcamps for them, designing competitions, along with give them offer exposure and show the support of the audience to the artists. We can also encourage them by providing collaboration opportunities and potential job opportunities in NFT projects.
 - Make digital artists work count: Make sure that the artists are being paid fairly for their work. This will give them a sense of value and motivate them to stay on the platform. NFT distribution events can be organized to give NFT to their fans.
+- Inject the sense of community: Create opportunities for artists to connect and collaborate with each other, and provide a platform for artists to showcase their work. For example, one can arrange small meetups for interacting with co-artists or fans and share their work. 
 
 Referral
 
