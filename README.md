@@ -9,9 +9,9 @@ Now, it's time to unleash the boundless potential of NFTs and experience the nex
 
 
 <br>
-<p align = "center">
+
 https://user-images.githubusercontent.com/72465090/217723158-60d0dbcd-381a-4ded-8cef-e4352c5c8dcf.mp4
-</p><hr>
+<hr>
 
 
 ## Synopsis
