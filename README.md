@@ -78,6 +78,7 @@ Acquisition or awareness efers to all of the channels we will use to introduce p
 - Putting out campaigns on C2E platform for like/retweet a spacific tweet and build some social media presence.
 - Twitter, Discord and Telegram are the most major social media platforms that will be used for this activity.
 - Social Media activities or post should always be checked for SEOs to make them competitive with other chains or projects posts.
+- Influencer marketing: Very much like using influencer marketing to boost sales of physical products and services, we can use it to create awareness and demand for our NFTs among our target audiences. This tactic leverages the credibility of influencers among their followers.
 
 <b>Activity 3: NFT hackathons & bootcamps</b>
 
@@ -98,6 +99,7 @@ Most of the activity that we plan in the acquisition part will have the domino e
 - People are more likely to engage with Algorand marketplace if there is something in it for them. Consider offering incentives such as free NFTs, ALGO tokens to giveaway for using platform for a small time.
 - We can incentivize C2E points of the C@E platforms for users that complete the tasks that we want to do them, like opening a algorand wallet address, purchasing a NFT.
 - NFT giveaways on Social media will prompt many users to check and open wallet for Algorand.
+- Events or exclusive bootcamps that can only be accesed through Algorand NFTs
 
 <b>Activity 2: User Experience</b>
 
@@ -113,9 +115,7 @@ Revenue
 
 # Yugank
 <p> Why Algorand?
-The cost of minting, buying, selling, and trading NFT’s on the Algorand blockchain is cheap. The transaction speed of Algorand is also fast, it can process up to 1,000 transactions per second and takes 4 seconds to achieve finality
 
-Algorand enables the creation of high-volume NFTs in a practical and feasible manner — especially for smaller, independent artists who may not have access to a lot of capital.
 
 Algorand’s ARC3 functionality
 NFTs minted on Algorand can include an option to be frozen or retrieved by the creator.NFT as ownership of artists.
