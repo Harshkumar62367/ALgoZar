@@ -140,33 +140,15 @@ Retention refers to the "active new users" that we have persuaded to take action
 - Warranty cards can also be provided using NFTs. Warranty cards can be invoked after their time period is completed. These Warranty cards can be transferable to another account with the ownership of the warranty card.
 - Utility Bills in the form of NFTs: Losing our bills can be very problematic in times when we need them for some important job. But ,what if it can never be lost , you can get it anywhere and anytime with its authenticity maintained.
 
-Referral
+### Referral
 
-Revenue
+ Referral refers to the active users, are they recommending our Algorand NFTs to more of their freinds or family members. This is a very hard metric to track as users uses all sorts of communication to refer q product. Let's break down into activities that we can tract for Referral metrics.
+ 
+<b>Activity 1: Referral programs</b>
 
-# Yugank
-<p> Why Algorand?
+ - We can start referral campaigns on Discord and can give certain benefits to referrers to refer a certain amount of folks. e.g Certain discord roles in the community, exclusive whitelsit for NFTs etc.
+ - User C2E platfroms for planning out activities on referral for our NFT projects.
+ - Platform used: Twitter, Discord
 
-
-Algorand’s ARC3 functionality
-NFTs minted on Algorand can include an option to be frozen or retrieved by the creator.NFT as ownership of artists.
-Digital Ownership: NFTs can be used as the ownership of digital form which artists will give preference to avoid plagiarism and copyright issues.
-
-
-
-Ticketing and Subscriptions as NFTs
-Tickets and coupons can be provided in the form of NFTs.Tickets can be stored on the blockchain and have access credentials. It’s a smart ticket with superpowers that disrupts the entire event industry with one click.
-
-Warranty cards can also be provided using NFTs. Warranty cards can be invoked after their time period is completed. These Warranty cards can be transferable to another account with the ownership of the warranty card.
-
-Subscriptions of any type like OTT platforms, windows licenses, and any type of validity can be given in NFTs.
-</p>
-
-###Nikhil
-
-Algorand is a fast,secure and cheap blockchain to mint,sell and trade NFTs. Its PPoS Consensus protocol has a major part in making it fast and reliable. With the growing trend and market of NFTs , the opportunities for increasing the NFT marketshare has also increased . This brings out enormous opportunities for Algorand too to expand its market cover in NFTs. Some of them can be:
-Expanding in Technical Institutions: It could be a area of enormous possibilites to increase the demand of NFTs. NFTs can be embedded in the ID Cards of students ,and  their degrees can too be provided in the form of NFTs. Apart from these full time NFTs , these can also be used in the form passes for events that are organised in the Institutions. Furthermore, Hall Tickets and gradecards can also be embedded in the form of NFTs.
-
-Subscriptions in the form of NFTs: Service Subscriptions are an avoidable part of our lives today. Sometimes it is hard to track down the money spent on these but what if we have a NFT in our wallet to signify our purchase with all the necessary details on it, wouldn't it be super easy to track and manage. And what if we could add a possibility to sell the subscription to some other individuals too, in case somebody doesn't want to keep . NFTs would be quite manageable,trackable and authentic in this scenario.
 
 
