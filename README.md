@@ -150,5 +150,9 @@ Retention refers to the "active new users" that we have persuaded to take action
  - User C2E platfroms for planning out activities on referral for our NFT projects.
  - Platform used: Twitter, Discord
 
+### Revenue
+
+Finally, we’ll need to identify actual revenue targets for your users. It will help you understand whether or not your costs for acquisition, activation, and other efforts result in profitable growth. The best part of AARRR metric is that we can easily track every metric know what is working and what is not.
+
 
 
