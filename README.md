@@ -99,6 +99,11 @@ Most of the activity that we plan in the acquisition part will have the domino e
 - We can incentivize C2E points of the C@E platforms for users that complete the tasks that we want to do them, like opening a algorand wallet address, purchasing a NFT.
 - NFT giveaways on Social media will prompt many users to check and open wallet for Algorand.
 
+<b>Activity 2: User Experience</b>
+
+- Ensure our NFT marketplace is user-friendly and easy to navigate. This can help attract more visitors and keep them coming back. A smooth, fast, and intuitive interface can make all the difference in attracting users and keeping them engaged.
+- Ensuring that our NFT maretplaces have inbuilt tools for digital artists to publish NFTs on the platform without the help of code.
+- Partner with other major NFT marketplaces, can help us reach a wider audience and increase the visibility of our marketplace. Consider collaborating with complementary businesses or platforms to cross-promote each other.
 
 Retention
 
