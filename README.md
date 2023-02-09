@@ -98,9 +98,10 @@ Most of the activity that we plan in the acquisition part will have the domino e
 <b>Activity 1: Algorand NFT incentivization</b>
 
 - People are more likely to engage with Algorand marketplace if there is something in it for them. Consider offering incentives such as free NFTs, ALGO tokens to giveaway for using platform for a small time.
-- We can incentivize C2E points of the C@E platforms for users that complete the tasks that we want to do them, like opening a algorand wallet address, purchasing a NFT.
+- We can incentivize C2E points of the C2E platforms for users that complete the tasks that we want to do them, like opening a algorand wallet address, purchasing a NFT.
 - NFT giveaways on Social media will prompt many users to check and open wallet for Algorand.
-- Events or exclusive bootcamps that can only be accesed through Algorand NFTs
+- Events or exclusive bootcamps that can only be accesed through Algorand NFTs.
+- Platfroms used: C2E platforms, Twitter, Discord, Telegram, NFT marketplaces, Instagram
 
 <b>Activity 2: User Experience</b>
 
@@ -108,7 +109,7 @@ Most of the activity that we plan in the acquisition part will have the domino e
 - Ensuring that our NFT maretplaces have inbuilt tools for digital artists to publish NFTs on the platform without the help of code.
 - Partner with other major NFT marketplaces, can help us reach a wider audience and increase the visibility of our marketplace. Consider collaborating with complementary businesses or platforms to cross-promote each other.
 
-## Retention
+### Retention
 
 Retention refers to the "active new users" that we have persuaded to take action, are they coming back to our Marketplace platform again and still show interest in our NFTs. It gives us the metric that how many active users we are retaining after they have interacted in activities that we want them to do. This is the metric where we we can identify quality contributors for our NFT project. Let's divide down this metric in activities that we are planning for markatplaces, digital artists the hype on social media.
 
