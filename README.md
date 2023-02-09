@@ -118,6 +118,13 @@ Retention refers to the "active new users" that we have persuaded to take action
 - Make digital artists work count: Make sure that the artists are being paid fairly for their work. This will give them a sense of value and motivate them to stay on the platform. NFT distribution events can be organized to give NFT to their fans.
 - Inject the sense of community: Create opportunities for artists to connect and collaborate with each other, and provide a platform for artists to showcase their work. For example, one can arrange small meetups for interacting with co-artists or fans and share their work. 
 
+<b>Activity 2: Markteplces users retention</b>
+
+- Regular Incentives: One can provide different and better incentives then theirs competiors.
+- Consider personalizing the user experience by offering personalized recommendations and tailored content based on their interests and behavior. This can help make the platform more engaging and relevant to each user, increasing their likelihood of returning.
+- Regular updates: Regularly updating your platform to add new features and fix any bugs can help keep your users engaged and coming back for more.
+- Community building: Building a community around your NFT marketplace can help create a sense of belonging and encourage users to come back and participate. Encourage users to engage with each other, share feedback, and offer suggestions to improve the platform.
+
 Referral
 
 Revenue
