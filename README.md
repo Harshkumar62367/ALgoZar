@@ -107,7 +107,15 @@ Most of the activity that we plan in the acquisition part will have the domino e
 - Ensuring that our NFT maretplaces have inbuilt tools for digital artists to publish NFTs on the platform without the help of code.
 - Partner with other major NFT marketplaces, can help us reach a wider audience and increase the visibility of our marketplace. Consider collaborating with complementary businesses or platforms to cross-promote each other.
 
-Retention
+## Retention
+
+Retention refers to the "active new users" that we have persuaded to take action, are they coming back to our Marketplace platform again and still show interest in our NFTs. It gives us the metric that how many active users we are retaining after they have interacted in activities that we want them to do. This is the metric where we we can identify quality contributors for our NFT project. Let's divide down this metric in activities that we are planning for markatplaces, digital artists the hype on social media.
+
+
+<b>Activity 1: Artists retention</b>
+
+- For retention of artists, we can arrange constant bootcamps for them, designing competitions, along with give them offer exposure and show the support of the audience to the artists. We can also encourage them by providing collaboration opportunities and potential job opportunities in NFT projects.
+- Make digital artists work count: Make sure that the artists are being paid fairly for their work. This will give them a sense of value and motivate them to stay on the platform. NFT distribution events can be organized to give NFT to their fans.
 
 Referral
 
