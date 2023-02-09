@@ -93,6 +93,12 @@ Activation is the metric where users take the desired actions that we want them 
 Most of the activity that we plan in the acquisition part will have the domino effect for the activation part. Also this is the metric where we can show the users the capabilities of Algorand NFTs, and why it is better than its counterparts. Let's put down some activities for the activation metric.
 
 
+<b>Activity 1: Algorand NFT incentivization</b>
+
+- People are more likely to engage with Algorand marketplace if there is something in it for them. Consider offering incentives such as free NFTs, ALGO tokens to giveaway for using platform for a small time.
+- We can incentivize C2E points of the C@E platforms for users that complete the tasks that we want to do them, like opening a algorand wallet address, purchasing a NFT.
+- NFT giveaways on Social media will prompt many users to check and open wallet for Algorand.
+
 
 Retention
 
