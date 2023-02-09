@@ -65,10 +65,10 @@ Acquisition or awareness efers to all of the channels we will use to introduce p
 - Contribute-to-earn (C2E) platfroms is now all over the web3 industry, and many platforms are using to not only increase their user base, but for identifying potential contributors for the projects also. 
 - With help of C2E platform, Algorand projects can urge the users to follow their social handles in exchange of some rewards.
 - C2E platforms have helped many defi and nft projects to acquire thousands of new users for polygon, sui and other blockchains projects.
-- Some major C2E platform in the web3 industry that can be used by Algorand for promoting their NFTs are PymeId, Quest3, Crew3, Dappback.
 - Crew3 alone has more than 1000+ projects of different ecosystem listed on its platform, and helps the projects in their community growth and creating social media presence.
 - We should also give out some free NFTs as in replace of doing tasks on C2E platforms, that only will increase our wallet base, but will help in community growth of Algo NFTs.
 - The NFTs rewarded can only be seen at the marketplaces, which will increase the traffic towards ALgorand NFT marketplaces.
+- Some major C2E platform in the web3 industry that can be used by Algorand for promoting their NFTs are PymeId, Quest3, Crew3, Dappback.
             
 <b>Activity 2: Social Media Activity</b>
 
@@ -76,9 +76,9 @@ Acquisition or awareness efers to all of the channels we will use to introduce p
 - Meme competitions also helps many NFT projects to create enegagemnt in Social Media.
 - Frequent eduactional content about ASA standards that help the community learn about Algorand NFTS.
 - Putting out campaigns on C2E platform for like/retweet a spacific tweet and build some social media presence.
-- Twitter, Discord and Telegram are the most major social media platforms that will be used for this activity.
 - Social Media activities or post should always be checked for SEOs to make them competitive with other chains or projects posts.
 - Influencer marketing: Very much like using influencer marketing to boost sales of physical products and services, we can use it to create awareness and demand for our NFTs among our target audiences. This tactic leverages the credibility of influencers among their followers.
+- Twitter, Discord and Telegram are the most major social media platforms that will be used for this activity.
 
 <b>Activity 3: NFT hackathons & bootcamps</b>
 
@@ -87,6 +87,7 @@ Acquisition or awareness efers to all of the channels we will use to introduce p
 - Conducting NFT bootcamps in art colleges to increase the digital artist in the Algorand NFT ecosystem.
 - Promoting regional art with these bootcamps and transforming the bridge the convert reginal arts into digital ones.
 - Conducting digital art fair or exhibition, will also help a lot to bring more digital artist aware about Algorand digital assets.
+- Patforms used will be hackathon or bounties platform along with Twitter, Instgram, Reddit, Email sharing of information about hackathons and bootcamps.
 
 ### Activation
 
@@ -128,6 +129,8 @@ Retention refers to the "active new users" that we have persuaded to take action
 <b>Activity 3: Social Media Growth</b>
 
 - Daily Activities planning: One needs to keep the audience interactive through daily activities like quiz nights, game nights, and incentives accordingly to keep the audience excited and enthuastic.
+- Trending Events: Events like meme contests can be held to keep the user refreshed and trendy activities should keep taking place.
+- Constant AMAs
 
 Referral
 
