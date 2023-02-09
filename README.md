@@ -87,9 +87,12 @@ Acquisition or awareness efers to all of the channels we will use to introduce p
 - Promoting regional art with these bootcamps and transforming the bridge the convert reginal arts into digital ones.
 - Conducting digital art fair or exhibition, will also help a lot to bring more digital artist aware about Algorand digital assets.
 
-<b>Activity 4: NFT hackathons & bootcamps</b>
+### Activation
 
-Activation
+Activation is the metric where users take the desired actions that we want them to, or in this case are they checking our Algorand NFT marketplaces, connecting their wallet or even buying the NFT. Now, we have made users aware about our NFTs, this is the second major metric that is divided in many small metric to ensure the activation growth.
+Most of the activity that we plan in the acquisition part will have the domino effect for the activation part.
+
+
 
 Retention
 
