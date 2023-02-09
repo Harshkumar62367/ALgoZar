@@ -10,7 +10,7 @@ Now, it's time to unleash the boundless potential of NFTs and experience the nex
 
 <br>
 <p align = "center">
-https://user-images.githubusercontent.com/72465090/217722731-4dceed4d-293f-406e-81ad-53e67973f436.mp4
+https://user-images.githubusercontent.com/72465090/217723158-60d0dbcd-381a-4ded-8cef-e4352c5c8dcf.mp4
 </p><hr>
 
 
