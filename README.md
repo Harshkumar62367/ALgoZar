@@ -89,8 +89,8 @@ Acquisition or awareness efers to all of the channels we will use to introduce p
 
 ### Activation
 
-Activation is the metric where users take the desired actions that we want them to, or in this case are they checking our Algorand NFT marketplaces, connecting their wallet or even buying the NFT. Now, we have made users aware about our NFTs, this is the second major metric that is divided in many small metric to ensure the activation growth.
-Most of the activity that we plan in the acquisition part will have the domino effect for the activation part.
+Activation is the metric where users take the desired actions that we want them to, or in this case are they checking our Algorand NFT marketplaces, connecting their wallet or even buying the NFT. Now, we have made users aware about our NFTs, this is the second major metric that is divided in many small metric to ensure the activation growth.  
+Most of the activity that we plan in the acquisition part will have the domino effect for the activation part. Also this is the metric where we can show the users the capabilities of Algorand NFTs, and why it is better than its counterparts. Let's put down some activities for the activation metric.
 
 
 
